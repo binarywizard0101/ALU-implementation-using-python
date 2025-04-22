@@ -39,7 +39,7 @@ Carry Flag (carry_flag): Set if the result exceeds a defined limit
 Zero Flag (zero_flag): Set if the result is 0
 
 Parity Flag (parity_flag): Set if the result is even
-#Future Improvements
+# Future Improvements
 🔹 Adding multiplication & division operations 
 🔹 Implementing overflow detection 
 🔹 Enhancing memory management and addressing 
