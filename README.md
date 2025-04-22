@@ -6,6 +6,8 @@ As a passionate learner of computer architecture, I created this project to expl
 ✅ Implements flag handling (Carry, Zero, Parity) 
 ✅ Simulates memory storage for results
 
+![ALU] (https://ibb.co/WN0Whm4S)
+
 # Instructions
 The ALU accepts three instructions sequentially:
 
