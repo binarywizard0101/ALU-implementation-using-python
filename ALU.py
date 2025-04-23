@@ -31,7 +31,7 @@ if instruct_3 == "ADD":
     memory[0] = operand1
     memory[1] = operand2
     memory[2] = operation
-    print("Result stored inside memory at 0 address")
+    print("\nResult stored inside memory at 0 address")
     print(operation)
 
 if instruct_3 == "SUB":
@@ -39,7 +39,7 @@ if instruct_3 == "SUB":
     memory[0] = operand1
     memory[1] = operand2
     memory[2] = operation    
-    print("Result stored inside memory at 0 address")
+    print("\nResult stored inside memory at 0 address")
     print(operation)
 
 if instruct_3 == "AND":
@@ -47,7 +47,7 @@ if instruct_3 == "AND":
     memory[0] = operand1
     memory[1] = operand2
     memory[2] = operation
-    print("Result stored inside memory at 0 address")
+    print("\nResult stored inside memory at 0 address")
     print(operation)
 
 if instruct_3 == "OR":
@@ -55,7 +55,7 @@ if instruct_3 == "OR":
     memory[0] = operand1
     memory[1] = operand2
     memory[2] = operation
-    print("Result stored inside memory at 0 address")
+    print("\nResult stored inside memory at 0 address")
     print(operation)
 
 if instruct_3 == "XOR":
@@ -63,7 +63,7 @@ if instruct_3 == "XOR":
     memory[0] = operand1
     memory[1] = operand2
     memory[2] = operation
-    print("Result stored inside memory at 0 address")
+    print("\nResult stored inside memory at 0 address")
     print(operation)
 
 
